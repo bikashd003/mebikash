@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mebikash/static/css/main.59fe8013.css",
+    "main.js": "/mebikash/static/js/main.f7288ee8.js",
+    "static/js/787.fb771931.chunk.js": "/mebikash/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/mebikash/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/about-img.jpg": "/mebikash/static/media/about-img.50b4fecc3d361b6817c9.jpg",
+    "static/media/header-img.jpg": "/mebikash/static/media/header-img.9b60892d30bd196b8178.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/mebikash/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/mebikash/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/portfolio1.jpg": "/mebikash/static/media/portfolio1.6cf0053b77dd0a673ac7.jpg",
+    "static/media/CentraNo2-Book.ttf": "/mebikash/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project2.jpg": "/mebikash/static/media/project2.8bd840e840b12e33ccb7.jpg",
+    "static/media/Resume.pdf": "/mebikash/static/media/Resume.08a124f99e5a7f57530d.pdf",
+    "static/media/contact-img.svg": "/mebikash/static/media/contact-img.af81a01e78274655b80ca37329b22070.svg",
+    "static/media/banner-bg.png": "/mebikash/static/media/banner-bg.1c3641699d0991b56035.png",
+    "static/media/logo.svg": "/mebikash/static/media/logo.af0d34677793fd994190985b100effb4.svg",
+    "index.html": "/mebikash/index.html",
+    "main.59fe8013.css.map": "/mebikash/static/css/main.59fe8013.css.map",
+    "main.f7288ee8.js.map": "/mebikash/static/js/main.f7288ee8.js.map",
+    "787.fb771931.chunk.js.map": "/mebikash/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59fe8013.css",
+    "static/js/main.f7288ee8.js"
+  ]
+}
